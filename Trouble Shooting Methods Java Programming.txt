@@ -1,0 +1,26 @@
+Trouble shooting Methods
+
+Collect Data
+-What type of problem
+	-Compile/Syntax
+	-RunTime
+	-Logic
+-What should happen??
+-What did happen??
+
+-Is there a pattern
+	-Are you wrong consistently???
+
+-Is there any cases where you get the correct answer
+	-Is there a pattern? Does it only work on positive #
+
+-Did it used to work?
+--Are you sure?
+-Don't get too attached to the code
+
+Once narrowed down
+-Does the block of code even run??
+-Maybe the function called?
+-If statement, is the condition what is should be?
+
+-Does the operation actually 
